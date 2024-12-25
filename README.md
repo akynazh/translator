@@ -1,10 +1,8 @@
-# osx-translator
+# translator
 
-MenuBar Translate is a very simple app that lets you have a quick shortcut to Google Translate in your OS X menu bar and integrate it with the OS X "Services" menu.
+This is a simple app that lets you have a quick shortcut to Google Translate in your OSX menu bar and integrate it with the OSX "Services" menu.
 
-NOTE: This project uses the code of [osx-menubar-translate](https://github.com/zetxek/osx-menubar-translate) under the MIT license. I want to customize many styles and features, which may not be consistent with the author's intention, so I decided to develop on my own branch, totally. If possible, I will contribute some meaningful features to the original repository.
-
-My version provides global keyboard shortcuts, a more beautiful interface and icons. More features will be added continuously.
+NOTE: This project uses the code of [osx-menubar-translate](https://github.com/zetxek/osx-menubar-translate) under the MIT license. My version provides global keyboard shortcuts, a more beautiful interface and icons. More features will be added continuously. If possible, I will contribute some meaningful features to the original repository.
 
 ## Global keyboard shortcuts
 
