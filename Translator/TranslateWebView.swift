@@ -49,6 +49,4 @@ class TranslateWebView: WKWebView {
             self.evaluateJavaScript(javascript, completionHandler: nil)
         }
     }
-    
-    
 }

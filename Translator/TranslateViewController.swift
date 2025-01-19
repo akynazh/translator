@@ -12,8 +12,6 @@ class TranslateViewController: NSViewController, WKNavigationDelegate {
     
     var urlLoaded = false
     let defaultUrl = "https://translate.google.com?sl=auto&tl=zh-CN&text="
-    let url="https://translate.google.com.hk/?hl=en&sl=auto&tl=zh-CN&text=yonder&op=translate"
-    
     
     override func viewWillAppear() {
         super.viewWillAppear()
